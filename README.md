@@ -14,7 +14,7 @@ A production **dbt** pipeline on **Databricks** that transforms 843K+ raw job po
 
 ## Pipeline Lineage
 
-![dbt lineage graph](img/lineage.png)
+![dbt lineage graph](img/lineage.PNG)
 
 ## Quickstart
 
