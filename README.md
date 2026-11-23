@@ -32,5 +32,6 @@ dbt snapshot                             # Run SCD2 history snapshot
 
 ## Documentation & Analyses
 
+* **Live Dashboard:** [Databricks Job Postings Dashboard](suwandidwis.github.io/job_posting_dashboard/)
 
 * **Live dbt Docs:** [suwandidwis.github.io/dbt-databricks-pipeline](https://suwandidwis.github.io/dbt-databricks-pipeline/) (also synced to Unity Catalog via `persist_docs`)
